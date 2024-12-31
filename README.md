@@ -1,7 +1,3 @@
-Here's the updated README file with the reasoning for not using ARIMA added:
-
----
-
 # Tesla Stock Data Analysis
 
 This project provides a comprehensive analysis of Tesla's stock trading data from 2010 to 2024. Using Python and various data analysis techniques, we cleaned, visualized, and modeled the data to extract meaningful insights and predict future trends.
