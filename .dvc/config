@@ -3,5 +3,5 @@
 ['remote "localremote"']
     url = /Users/ahadmoeen/dvc-storage
 ['remote "myremote"']
-    url = gdrive://12klO31ICWLQxRmMVyhS-zzbCeJbqGbqQ
+    url = gdrive://12klO31ICWLQxRmMVyhS
     gdrive_acknowledge_abuse = true
