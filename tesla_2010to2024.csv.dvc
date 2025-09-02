@@ -1,0 +1,5 @@
+outs:
+- md5: a614d23494e3b6380437dd86e89fc40a
+  size: 260413
+  hash: md5
+  path: tesla_2010to2024.csv
